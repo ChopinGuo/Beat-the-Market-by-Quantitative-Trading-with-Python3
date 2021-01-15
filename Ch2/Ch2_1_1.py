@@ -24,3 +24,7 @@ if not isinstance(price_str, str):
     price_str += 1.0
 else:
     raise TypeError('price_str is str type!')
+
+# Ch2_1_2
+
+print('Old price_str id = {}'.format(id(price_str)))
