@@ -29,5 +29,3 @@ print(price_set)
 
 price_array.remove('32.82')
 print(price_array)
-
-# 3. Loop
